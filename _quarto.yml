@@ -35,7 +35,7 @@ website:
 
 project:
   type: website
-  output-dir: site
+  output-dir: docs
   preview: 
     port: 22222
     browser: true
